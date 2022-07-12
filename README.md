@@ -308,6 +308,44 @@ Have you had any problems managing your CGM device? If so, describe here.<br/>
 If you have any general questions or more info you’d like to share, please write it here.<br/>
 *(Text)
 
+## Server welcome message
+Welcome to Bionic! We're here for questions, support, requests etc.
+
+## Server Rules
+Welcome! Please read below!
+
+Bionic is a CGM refill & support service for T1 & T2 diabetics only. To get started, see our user guide & community rules below.
+
+/User guide
+🏥 For all medical issues, message us on the #medsupport channel.
+💊 For all refills & drug requests, use `the Drugstore' tab to the left.
+❓ For help with the app/technical issues, visit our discord server: https://discord.gg/XGjGybxTWe 
+💬 For general discussion, see #patientchat—a place to talk with other members that's private, anonymous & unmonitored. 
+
+Important! By participating in this community, you agree to adhere to the following rules:
+
+/Support channel rules
+• Rule #1 The #Support channel is for diabetes assistance ONLY. For urgent issues, call 911.
+• Rule #2 Be super descriptive about your current issue(s). Vague queries will be ignored.
+• Rule #3 We try & respond to all inquiries ~48 hours. Sometimes it may take longer.
+• Rule #4 Be respectful–everyone's issue is important, and everyone wants immediate results.
+• Rule #5 If the service is not a good fit, we reserve the right to refer you out.
+
+/Drugstore rules
+• Rule #1 Any requests deemed unsuitable will be rejected
+• Rule #2 Please wait for any pending requests to be reviewed before making new ones.
+• Rule #3 If you make a request by mistake, message us on #Support.
+• Rule #4 Requests older than 6 days will be automatically rejected & must be re-requested.
+
+/Banning & loss of membership
+• If you violate any of these rules or the community guidelines, you may be permanently banned.
+
+Additional important links
+🔗 Community Guidelines • https://github.com/Pharmr/legal/blob/main/community-guidelines.md
+🔗 Invite your friends • https://pharmr.app/preview/170969491
+
+Thanks for joining. 
+
 
 
 
